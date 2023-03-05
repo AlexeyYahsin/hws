@@ -2,7 +2,7 @@
   "name": "hws",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlexeyYahsin.github.io/hws",
+  "homepage": "https://alexeyyahsin.github.io/hws/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
